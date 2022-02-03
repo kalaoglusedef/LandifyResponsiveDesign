@@ -10,6 +10,6 @@ This project is built on HTML+SASS. Responsive design has been made. Along with 
 
 ## ScreenShot
 
-![Desktop](img/Ekran AlıntısıDesktop.png)
-![Tablet](img/Ekran AlıntısıTablet.png)
-![Mobil](img/EkranAlıntısıMobil.jpeg)
+![Desktop](img/desktop.png)
+![Tablet](img/tablet.png)
+![Mobil](img/mobile.jpeg)
